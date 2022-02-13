@@ -4,6 +4,7 @@
 'Accumlate Messages Function
 '
 
+
 Option Explicit On
 Option Compare Text
 Option Strict On
